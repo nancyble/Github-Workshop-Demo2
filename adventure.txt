@@ -1,1 +1,3 @@
 The hero finds a magical sword.
+The hero swings and misses.
+
